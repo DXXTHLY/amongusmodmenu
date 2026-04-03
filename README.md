@@ -72,7 +72,4 @@ Toggle the radar off and the window collapses to just the player list — slim, 
 
 > ⚠️ Among Us must be running for the radar to activate. If not detected, the tool will wait and connect automatically when the game launches.
 
----
-
-## 🛠️ Running from source
 ```bash
