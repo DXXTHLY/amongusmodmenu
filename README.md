@@ -18,7 +18,8 @@
 
 ## 📸 Preview
 
-> *(screenshot here)*
+> <img width="467" height="872" alt="image" src="https://github.com/user-attachments/assets/dfbb4a93-1316-4e90-a39e-078fa0828f38" />
+
 
 ---
 
