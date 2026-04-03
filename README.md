@@ -1,6 +1,9 @@
 <div align="center">
 
 # 143X Menu
+
+# [NEWEST VERSION HERE](https://github.com/DXXTHLY/amongusmodmenu/releases/tag/ammupdate)
+
 ### Among Us ESP & Radar Tool
 
 ![version](https://img.shields.io/badge/version-1.0.0-a855f7?style=for-the-badge)
