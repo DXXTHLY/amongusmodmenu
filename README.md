@@ -4,6 +4,10 @@
 
 # [NEWEST VERSION HERE](https://github.com/DXXTHLY/amongusmodmenu/releases/tag/ammupdate)
 
+## 📺 Preview
+
+[![143X Menu Preview](https://img.youtube.com/vi/VQkYO9HITmI/maxresdefault.jpg)](https://www.youtube.com/watch?v=VQkYO9HITmI)
+
 ### Among Us ESP & Radar Tool
 
 ![version](https://img.shields.io/badge/version-1.0.0-a855f7?style=for-the-badge)
